@@ -113,7 +113,7 @@ button:active {
   border-radius: 15px;
   text-align: center;
   transform: 2s box-shadow ease-in-out;
-  height: 110%;
+  height: 100%;
 }
 
 .shoe-card img {
